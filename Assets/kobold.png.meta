@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 495d2fcd81276494daade80f6d7fb9c8
+guid: 322924798dd77bd4da1df8ee643bde01
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8103325947680428404
-    second: circl_0
+      213: -5879621321661086693
+    second: kobold_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: circl_0
+      name: kobold_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 16
-        height: 16
+        x: 27
+        y: 91
+        width: 511
+        height: 525
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 47192b2240cc47070800000000000000
-      internalID: 8103325947680428404
+      spriteID: b14049c3f83676ea0800000000000000
+      internalID: -5879621321661086693
       vertices: []
       indices: 
       edges: []
