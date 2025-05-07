@@ -1,0 +1,20 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# VS/JetBrains/Rider
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.suo
+
+# OS-specific
+.DS_Store
+Thumbs.db
