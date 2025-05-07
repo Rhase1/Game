@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "D:\\Unity\\I cant name things bro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DB9437EE-64FD-B964-4EE7-1A7248C60B35}|Assembly-CSharp.csproj|D:\\Unity\\I cant name things bro\\assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB9437EE-64FD-B964-4EE7-1A7248C60B35}|Assembly-CSharp.csproj|solutionrelative:assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\I cant name things bro\\Library\\PackageCache\\com.unity.collab-proxy@946053a44d19\\Editor\\Configuration\\CloudEdition\\Welcome\\AutoLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.collab-proxy@946053a44d19\\Editor\\Configuration\\CloudEdition\\Welcome\\AutoLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB9437EE-64FD-B964-4EE7-1A7248C60B35}|Assembly-CSharp.csproj|D:\\Unity\\I cant name things bro\\assets\\camerascript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB9437EE-64FD-B964-4EE7-1A7248C60B35}|Assembly-CSharp.csproj|solutionrelative:assets\\camerascript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\I cant name things bro\\Assets\\Camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DB9437EE-64FD-B964-4EE7-1A7248C60B35}|Assembly-CSharp.csproj|d:\\unity\\i cant name things bro\\assets\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9437EE-64FD-B964-4EE7-1A7248C60B35}|Assembly-CSharp.csproj|solutionrelative:assets\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AutoLogin.cs",
-              "DocumentMoniker": "D:\\Unity\\I cant name things bro\\Library\\PackageCache\\com.unity.collab-proxy@946053a44d19\\Editor\\Configuration\\CloudEdition\\Welcome\\AutoLogin.cs",
-              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.collab-proxy@946053a44d19\\Editor\\Configuration\\CloudEdition\\Welcome\\AutoLogin.cs",
-              "ToolTip": "D:\\Unity\\I cant name things bro\\Library\\PackageCache\\com.unity.collab-proxy@946053a44d19\\Editor\\Configuration\\CloudEdition\\Welcome\\AutoLogin.cs",
-              "RelativeToolTip": "Library\\PackageCache\\com.unity.collab-proxy@946053a44d19\\Editor\\Configuration\\CloudEdition\\Welcome\\AutoLogin.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAawFkAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T23:40:31.841Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PlayerMovement.cs",
-              "DocumentMoniker": "D:\\Unity\\I cant name things bro\\Assets\\PlayerMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\PlayerMovement.cs",
-              "ToolTip": "D:\\Unity\\I cant name things bro\\Assets\\PlayerMovement.cs",
-              "RelativeToolTip": "Assets\\PlayerMovement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Title": "ItemData.cs",
+              "DocumentMoniker": "D:\\Unity\\I cant name things bro\\Assets\\ItemData.cs",
+              "RelativeDocumentMoniker": "Assets\\ItemData.cs",
+              "ToolTip": "D:\\Unity\\I cant name things bro\\Assets\\ItemData.cs",
+              "RelativeToolTip": "Assets\\ItemData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T23:33:13.094Z",
+              "WhenOpened": "2025-05-07T02:30:32.413Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CameraScript.cs",
-              "DocumentMoniker": "D:\\Unity\\I cant name things bro\\Assets\\CameraScript.cs",
-              "RelativeDocumentMoniker": "Assets\\CameraScript.cs",
-              "ToolTip": "D:\\Unity\\I cant name things bro\\Assets\\CameraScript.cs",
-              "RelativeToolTip": "Assets\\CameraScript.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T23:27:27.34Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Camera.cs",
-              "DocumentMoniker": "D:\\Unity\\I cant name things bro\\Assets\\Camera.cs",
-              "RelativeDocumentMoniker": "Assets\\Camera.cs",
-              "ToolTip": "D:\\Unity\\I cant name things bro\\Assets\\Camera.cs",
-              "RelativeToolTip": "Assets\\Camera.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T23:19:17.261Z"
             }
           ]
         }
